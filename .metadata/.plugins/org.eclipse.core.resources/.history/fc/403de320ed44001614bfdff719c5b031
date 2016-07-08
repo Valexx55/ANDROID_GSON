@@ -1,0 +1,5 @@
+package edu.val.cice.remote;
+
+public class Persona {
+
+}
